@@ -1,4 +1,5 @@
 ## Laravel Framework (Kernel)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Ruzarh/framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://img.shields.io/packagist/dm/laravel/framework.svg)](https://packagist.org/packages/laravel/framework)
